@@ -31,7 +31,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "json-web-token",
+  "name": "@adi.lib/json-web-token",
   "author": "Aditya",
   "module": "dist/json-web-token.esm.js",
   "size-limit": [
