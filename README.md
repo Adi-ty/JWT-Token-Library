@@ -5,6 +5,14 @@ This is a JSON Web Token (JWT) library developed using TSdx. It provides three m
 > **Note:** This library is still in the development phase and is not recommended for production use.
 > For a more mature and feature-rich JWT library, I recommend using Auth0 JWT or a similar established library.
 
+## Installation
+
+To install the JWT Library, you can use npm:
+
+```
+  npm i @adi.lib/json-web-token
+```
+
 ## Development
 
 ### Installation
